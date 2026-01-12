@@ -1,54 +1,16 @@
 {
   "project_info": {
-    "project_number": "692109531022",
-    "project_id": "filedoc-64d48",
-    "storage_bucket": "filedoc-64d48.firebasestorage.app"
+    "project_number": "123456789",
+    "project_id": "your-project-id"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:692109531022:android:c3ecff1f490a8322bd36df",
+        "mobilesdk_app_id": "1:123456789:android:xxxxxx",
         "android_client_info": {
-          "package_name": "com.ignito.filedockminiadmin"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "692109531022-m8k5eo0acetn2eb3lfrd4u3q06qesvbc.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.ignito.filedockminiadmin",
-            "certificate_hash": "80cc838ad6f4a5c8b2c97b93fc3f93f58bb5c88f"
-          }
-        },
-        {
-          "client_id": "692109531022-bt77cqtu07r2jkvi6qocqu3h7atcpqu4.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCNT4XvFb7AuPWtz1pH1NgAuhs2zQIcVxw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "692109531022-bt77cqtu07r2jkvi6qocqu3h7atcpqu4.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "692109531022-0n9iveheb2vr8r9htbb6nftdqv897tbe.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.filedocminiadmin"
-              }
-            }
-          ]
+          "package_name": "com.example.app"
         }
       }
     }
-  ],
-  "configuration_version": "1"
+  ]
 }
